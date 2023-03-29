@@ -1,6 +1,8 @@
+shopping list: 
 apple
 orange
 banans
 cherries
 graphs
 watermelon
+carrots
